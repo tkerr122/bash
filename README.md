@@ -1,0 +1,3 @@
+README
+
+This repo contains simple shell scripts stringing together various commands, such as GDAL_translate and GDAL_warp, batch downloading files in parallel, or moving files based on a naming convention. Nothing too complex.
